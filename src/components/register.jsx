@@ -109,16 +109,12 @@ export default function RegisterComp(){
             if (Password===ConfirmPassword && passwordCondtions===true){
                 navigate("/User")
             }
-            else{
-                
+            else{ 
             }
         }
         else{
-            
         }
     }
-
-
     return(
         <div className="Register-form-container">
             <h1>Register</h1>

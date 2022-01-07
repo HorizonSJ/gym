@@ -1,4 +1,4 @@
-import logo from '../../resources/images/logo.svg'
+import logo from '@a/logo.svg'
 
 
 export default function FooterComp(){

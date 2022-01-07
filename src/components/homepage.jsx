@@ -1,4 +1,4 @@
-import adimg from '../resources/images/Group 2.png'
+import adimg from '@a/Group 2.png'
 
 
 export default function HomePageComp(){

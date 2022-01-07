@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import homeButtonImg from '../../resources/images/icons8-home.svg'
+import homeButtonImg from '@a/icons8-home.svg'
 
 export default function NavbarComp(){
     function PlansDropdown(){

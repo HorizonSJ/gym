@@ -1,5 +1,5 @@
-import logo from '../resources/images/logo.svg'
-import "../resources/css/logincomp.css"
+import logo from '@a/logo.svg'
+import "@s/login.css"
 
 
 export default function LoginBox(){

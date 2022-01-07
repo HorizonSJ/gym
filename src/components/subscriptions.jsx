@@ -1,4 +1,4 @@
-import "../resources/css/subscriptions.css"
+import "@s/subscriptions.css"
 
 export default function Subscriptions(){
     return(

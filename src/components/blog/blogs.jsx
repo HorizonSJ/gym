@@ -1,5 +1,5 @@
-import "../../resources/css/blogscomp.css"
-import logo from "../../resources/images/logo.svg"
+import "@s/blogs.css"
+import logo from "@a/logo.svg"
 
 export default function BlogDisplayComp(){
     return(
